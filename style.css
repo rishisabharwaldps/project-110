@@ -1,0 +1,20 @@
+.body_background{
+    background-color: lightpink;
+    text-decoration: limegreen;
+}
+
+.header{
+    color: lawngreen;
+    background: white;
+    height: 40px;
+    width: 250px;
+}
+.login_div{
+    background: white;
+    height: auto;
+    width: 500;
+}
+
+.lll{
+    background: gray;
+}
